@@ -47,4 +47,4 @@ Kali Linux · Parrot OS · Ubuntu · Docker · Git · Linux CLI · Postman · Fa
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/ompanjwani) · [Email](mailto:ompanjwani77@gmail.com) · [Portfolio](https://ompanjwani.vercel.app)
+[LinkedIn](https://linkedin.com/in/ompanjwani) · [Email](mailto:ompanjwani77@gmail.com)
